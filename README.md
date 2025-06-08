@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Pranjul-Gupta25
-- 👀 I’m interested in infrastructure side
-- 🌱 I’m currently learning cloud and devops tools 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Pranjul2501@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ### 👋 Hi, I'm Pranjul Gupta (@Pranjul-Gupta25)
+🚀 Aspiring DevOps & Cloud Engineer  
+🌩️ Currently learning AWS, Linux, Git, Docker, and DevOps tools  
+🔧 Interested in Infrastructure, CI/CD, Monitoring, and Automation  
+📫 Reach me at: pranjul2501@gmail.com  
+🌱 Fun fact: I'm building a solid foundation in cloud and DevOps step by step!
 
 <!---
 Pranjul-Gupta25/Pranjul-Gupta25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
