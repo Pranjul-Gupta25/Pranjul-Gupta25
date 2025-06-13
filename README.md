@@ -2,7 +2,7 @@
 🚀 Aspiring DevOps & Cloud Engineer  
 🌩️ Currently learning AWS, Linux, Git, Docker, and DevOps tools  
 🔧 Interested in Infrastructure, CI/CD, Monitoring, and Automation  
-📫 Reach me at: pranjul2501@gmail.com  
+📫 Reach me at: pranjulgupta2501@gmail.com  
 🌱 Fun fact: I'm building a solid foundation in cloud and DevOps step by step!
 
 <!---
